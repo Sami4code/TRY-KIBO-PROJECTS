@@ -58,7 +58,7 @@ header h1, nav > a {
 }
 
 .time, .rating {
-    color: #006400;
+    color: #b5460f;
     font-family: sans-serif;
 }
 
@@ -67,3 +67,19 @@ header h1, nav > a {
     justify-content: space-between;
     padding: 20px;
 }
+
+.Category {
+    font-variant: small-caps;
+    color: #b5460f;
+    font-weight: 600;
+    font-family: sans-serif;
+    text-transform: lowercase;
+    font-size: 18px;
+}
+
+.name {
+    font-size: 30px;
+    color: #006400
+    /* line-height: 1.2;
+    padding-bottom: 1em; */
+  }
